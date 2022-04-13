@@ -27,7 +27,7 @@ education:
   - course: MS in Robotics  
     institution: Carnegie Mellon University
     year: 2020-now
-  - course: BASc in Engineering Science, Robotics Major (Graduated with Honours)
+  - course: BASc in Engineering Science, Robotics Major (Honours)
     institution: University of Toronto
     year: 2015-2020
 
