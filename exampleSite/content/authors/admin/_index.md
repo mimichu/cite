@@ -1,80 +1,64 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Chuer Pan
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: MS in Robotics Candidate
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Robotics Institute, Carnegie Mellon University
+  url: "https://www.ri.cmu.edu/ri-people/chuer-pan/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Robotics
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
 
-# Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Robotics  
+    institution: Carnegie Mellon University
+    year: 2022
+  - course: BS in Engineering Science, Robotics Major
+    institution: University of Toronto
+    year: 2020
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-  label: Follow me on Twitter
-  display:
-    header: true
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:chuer.pan@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=HBMZ02EAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
+  link: https://github.com/mimichu
 # Link to a PDF of your resume/CV from the About widget.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+email: "chuer.pan@gmail.com"
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+bio: I am a second-year robotics master student at Robotics Institute, Carnegie Mellon Univeristy, where I work as a member of the [Robots Perceiving and Doing Lab](https://r-pad.github.io/) Lab with [Prof David Held](https://davheld.github.io/).
+I am interested in developing systems that enable robots to perform dynamic, complex manipulation tasks by learning to extract task-relevant semantic visual cues efficiently from limited demonstrations. 
+Currently, I work on develping self-supervised learning-based perception-focused system to robustly perform various manipulation tasks, such as mug hanging, peg-and-hole insertion.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Previously I completed my BS in Robotics (Honours), in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at University of Toronto. There, I worked on deep natural language processing with [Prof Frank Rudzicz](http://www.cs.toronto.edu/~frank/) at [Vector Institute](https://vectorinstitute.ai/). I also worked on microfludics with [Prof Eugenia Kumacheva](https://sites.chem.utoronto.ca/chemistry/staff/EK/about.html) during early exposure to research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I also intered as a software engineer at the FPGA division (now Network and Custom Logic Group) at Intel for a year as part of the Professional Experience Year program during my undergrad.
