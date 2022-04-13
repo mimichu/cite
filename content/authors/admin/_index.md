@@ -26,10 +26,16 @@ education:
   courses:
   - course: MS in Robotics  
     institution: Carnegie Mellon University
-    year: 2022
+    year: 2020-now
   - course: BS in Engineering Science, Robotics Major
     institution: University of Toronto
-    year: 2020
+    year: 2015-2020
+
+industry:
+  courses:
+  - course: Software Engineer Intern
+    institution: Network and Custom Logic Group, Intel
+    year: 2018.05 - 2019.04
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -56,6 +62,7 @@ email: "chuer.pan@gmail.com"
 ---
 
 I am a second-year robotics master student at Robotics Institute, Carnegie Mellon Univeristy, where I work as a member of the [Robots Perceiving and Doing Lab](https://r-pad.github.io/) Lab with [Prof David Held](https://davheld.github.io/).
+
 I am interested in developing systems that enable robots to perform dynamic, complex manipulation tasks by learning to extract task-relevant semantic visual cues efficiently from limited demonstrations. 
 Currently, I work on develping self-supervised learning-based perception-focused system to robustly perform various manipulation tasks, such as mug hanging, peg-and-hole insertion.
 
