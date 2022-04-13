@@ -66,12 +66,11 @@ social:
 email: "chuerp@andrew.cmu.edu"
 ---
 
-I am a second-year robotics master student at Robotics Institute, Carnegie Mellon Univeristy, where I work as a member of the [Robots Perceiving and Doing Lab](https://r-pad.github.io/) Lab with [Prof David Held](https://davheld.github.io/).
+I am a 2nd-year robotics master student at Robotics Institute, Carnegie Mellon University, where I work as a member of the [Robots Perceiving and Doing Lab](https://r-pad.github.io/) Lab with [Prof David Held](https://davheld.github.io/).
 
-I am interested in developing systems that enable robots to perform dynamic, complex manipulation tasks by learning to extract task-relevant semantic visual cues efficiently from limited demonstrations. 
-Currently, I work on develping self-supervised learning-based perception-focused system to robustly perform various manipulation tasks, such as mug hanging, peg-and-hole insertion.
+I am interested in developing systems that enable robots to perform dynamic, complex manipulation tasks by learning to extract task-relevant semantic visual cues efficiently from limited demonstrations. Currently, I work on developing self-supervised learning-based perception-focused systems to robustly perform various manipulation tasks, such as mug hanging, and peg-and-hole insertion.
 
-Previously I completed my BS in Robotics, in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at University of Toronto. There, I worked on deep natural language processing with [Prof Frank Rudzicz](http://www.cs.toronto.edu/~frank/) at [Vector Institute](https://vectorinstitute.ai/). I also worked on microfludics with [Prof Eugenia Kumacheva](https://sites.chem.utoronto.ca/chemistry/staff/EK/about.html) during early exposure to research.
+Previously I completed my BS in Robotics, in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto. There, I worked on deep natural language processing with [Prof Frank Rudzicz](http://www.cs.toronto.edu/~frank/) at [Vector Institute](https://vectorinstitute.ai/). I also worked on microfluidics with [Prof Eugenia Kumacheva](https://sites.chem.utoronto.ca/chemistry/staff/EK/about.html) during early exposure to research.
 
 Email: 	chuerp@andrew.cmu.edu
 <!-- I also intered as a software engineer at the FPGA division (now Network and Custom Logic Group) at Intel for a year as part of the Professional Experience Year program during my undergrad. -->
