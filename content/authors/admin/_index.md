@@ -31,10 +31,10 @@ education:
   courses:
   - course: MS in Robotics  
     institution: Carnegie Mellon University
-    year: 2020-now
+    year: 2022 (Expected)
   - course: BASc in Engineering Science, Robotics Major (Honours)
     institution: University of Toronto
-    year: 2015-2020
+    year: 2020
 
 industry:
   courses:
